@@ -19,6 +19,10 @@
           "background": "#ff6600"
         }
       }
+    },
+    "-11": {
+      "title": "other",
+      "id": 5
     }
   }
 }
