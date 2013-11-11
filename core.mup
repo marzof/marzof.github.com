@@ -1,0 +1,24 @@
+{
+  "title": "core",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "2": {
+      "title": "resources",
+      "id": 4
+    },
+    "1.5": {
+      "title": "activities",
+      "id": 3
+    },
+    "-10": {
+      "title": "partner:",
+      "id": 2,
+      "attr": {
+        "style": {
+          "background": "#ff6600"
+        }
+      }
+    }
+  }
+}
